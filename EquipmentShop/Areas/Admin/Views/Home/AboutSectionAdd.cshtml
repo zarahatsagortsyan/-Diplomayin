@@ -1,0 +1,54 @@
+﻿@model AboutSection
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <title>Create AboutSection</title>
+</head>
+<body>
+    <h1>Ավելացնել</h1>
+    <form asp-action="Create" class="form-group">
+        <div>
+            <label asp-for="ImgUrl">Նկարի URL</label>
+            <input type="text" asp-for="ImgUrl"   class=" form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description">Նկարագրություն:</label>
+            <textarea asp-for="Description" class=" form-control"></textarea>
+        </div>
+        <div class=" form-group">
+            <h3>Ուղղություն</h3>
+            <select asp-for="Dest">
+                <option>Աջ</option>
+                <option>Ձախ</option>
+            </select>
+        </div>
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="AboutSectionAdd">Ստեղծել </button>
+        <a asp-action="AboutSection" class=" btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>
+
+<script src="~/lib/tinymce/tinymce/js/tinymce/tinymce.min.js"></script>
+
+<!-- Script to wire up your TinyMCE editor -->
+<script type="text/javascript">
+    // Initialize your tinyMCE Editor with your preferred options
+    tfm_path = '/Areas/Admin/fileman';
+    tinymce.init({
+
+        selector: "textarea", theme: "modern", height: 200, width: 550,
+        plugins: [
+            //    "advlist autolink link image lists charmap print preview hr anchor pagebreak",
+            //    "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
+            "table contextmenu directionality emoticons paste textcolor"
+        ],
+        fontsize_formats: "8pt 10pt 12pt 14pt 18pt 24pt 36pt",
+        toolbar1: "undo redo | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | styleselect | fontsizeselect",
+        toolbar2: "| link unlink anchor | image media | forecolor backcolor | print preview code ",
+        image_advtab: false,
+        menubar: false,
+    });
+</script>

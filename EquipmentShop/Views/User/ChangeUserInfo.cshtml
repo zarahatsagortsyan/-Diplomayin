@@ -1,0 +1,46 @@
+﻿@model Users
+<section>
+    <div class="container">
+    <div class=" bg-stack-overflow pace-panel "><h4>Խմբագրում</h4></div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="container">
+        <form asp-action="ChangeUserInfo" method="post">
+            <div class=" form-group">
+                <label asp-for="Id">ID</label>
+                <input asp-for="Id" class=" form-control" readonly="readonly" />
+            </div>
+            <div class=" form-group">
+                <label asp-for="Email">Էլ-հասցե</label>
+                <input asp-for="Email" class="form-control" />
+            </div>
+            <div class=" form-group">
+                <label asp-for="UserName">Օգտանուն</label>
+                <input asp-for="UserName" class="form-control" />
+            </div>
+            <div class=" form-group">
+                <label asp-for="PhoneNumber">Հեռախոսահամար</label>
+                <input asp-for="PhoneNumber" class="form-control" />
+            </div>
+            <div class=" form-group">
+                <label asp-for="PasswordHash">ձեր գաղտնաբառը</label>
+                <input asp-for="PasswordHash" type="password" class="form-control " required />
+            </div>
+            <button type="submit" class=" btn btn-primary"> Պահպանել</button>
+        </form>
+
+        <div style="display:flex; justify-content:flex-end">
+            <a asp-action="Profile" class="btn btn-outline-dark ml-2">Չեղարկել</a>
+        </div>
+    </div>
+        </div>
+</section>
+<!-- Bootstrap core JavaScript -->
+<script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+<script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="~/libTemp/js/jqBootstrapValidation.js"></script>
+<!-- Custom scripts for this template -->
+<script src="~/libTemp/js/agency.js"></script>
+
+

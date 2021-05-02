@@ -1,0 +1,28 @@
+﻿@model ForWhom
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <h1>Ավելացնել</h1>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form asp-action="ForWhomAdd" class="form-group">
+
+        <div class="form-group">
+            <label asp-for="Name">Անվանուն:</label>
+            <input asp-for="Name" type="text" class=" form-control" />
+        </div>
+
+
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="Create">Ստեղծել </button>
+        <a asp-action="ForWhom" class=" btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>
+
+
+

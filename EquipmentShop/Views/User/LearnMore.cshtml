@@ -1,0 +1,98 @@
+﻿@model Product
+@{
+    IEnumerable<Material> materials = ViewData["Materials"] as IEnumerable<Material>;
+}
+
+<head>
+    <link href="~/css/LearnMore.css" rel="stylesheet" />
+</head>
+<section>
+    <div class="col-xs-10 col-md-10 m-auto mt-2 container">
+        <p>
+            <a asp-action="ProductList">Տեսականի</a> / <a asp-action="LearnMore" asp-route-id="@Model.ProductID">Պրոդուկտ՝ @Model.Name</a>
+        </p>
+        <!-- product -->
+        <div class="product-content product-wrap clearfix">
+            <div class="row m-auto">
+                <div class="col-md-7 col-sm-12 col-xs-12">
+                    <div class="product-image" style="margin:auto;">
+                        <img class=" d-block mx-auto img-responsive" style="width:100%;height:auto;" src="@Model.Image">
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 col-xs-12">
+                    <div class="product-deatil">
+                        <h5 class="name">
+                            @Model.Name
+                        </h5>
+                        <p class="price-container">
+                            <span>@Model.Price դր․</span>
+                        </p>
+                        <h5 class="bg-danger text-light">@Model.Availability</h5>
+                        <p class="bg-dark text-light">Սեռ</p>
+
+                        <span>@Model.ForWhom</span>
+                        <hr>
+
+                        <p class="bg-dark text-light">Կատեգորիա</p>
+
+                        <span>@Model.Category</span>
+                        <hr>
+
+                        <p class="bg-dark text-light">Նյութեր</p>
+
+                        @foreach (Material item in materials)
+                        {
+                            if (item.ProductID == Model.ProductID)
+                            {
+                                <span> @item.Name</span><br />
+                            }
+                        }
+                        <hr>
+                    </div>
+                    <div class="description">
+                        <p class="bg-dark text-light">Նկարագրություն</p>
+
+                        <p>@Html.Raw(Model.Description.ToString()) </p>
+                    </div>
+                    @if (Model.Availability == "Առկա է")
+                    {
+                        <a class="btn btn-outline-info m-2" asp-action="OrderNow" asp-route-id="@Model.ProductID">
+                            Պատվիրել հիմա
+                        </a>
+                        <a class="btn btn-outline-info m-2" asp-action="ProductsBasketAdd" asp-route-id="@Model.ProductID">
+                            Ավելացնել զամբյուղը
+                        </a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-outline-info m-2 disabled" asp-action="OrderNow" asp-route-id="@Model.ProductID">
+                            Պատվիրել հիմա
+                        </a>
+                        <a class="btn btn-outline-info m-2 disabled" asp-action="ProductsBasketAdd" asp-route-id="@Model.ProductID">
+                            Ավելացնել զամբյուղը
+                        </a>
+                    }
+                </div>
+
+                <div class=" d-flex justify-content-around">
+                    <div class="form-group p-2">
+                        <p>Ստեղծվել է - @Model.DateCreated</p>
+                    </div>
+                    <div class="p-2 form-group">   </div>
+                    <div class="form-group p-2">  <p>Դիտումներ - @Model.Views</p>  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Bootstrap core JavaScript -->
+<script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+<script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+<script src="~/libTemp/js/jqBootstrapValidation.js"></script>
+<!-- Custom scripts for this template -->
+<script src="~/libTemp/js/agency.js"></script>
+
+

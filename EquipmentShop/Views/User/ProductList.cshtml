@@ -1,0 +1,203 @@
+﻿@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@model EquipmentShop.ViewModels.SearchViewModel
+@{
+    IEnumerable<Product> products = ViewData["Products"] as IEnumerable<Product>;
+    List<Category> categories = ViewData["Categories"] as List<Category>;
+    List<ForWhom> forWhoms = ViewData["ForWhoms"] as List<ForWhom>;
+    List<string> Checkbox = ViewData["Check"] as List<string>;
+}
+@{Layout = "_ProductLayout";}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/sideBar.css">
+    <link href="~/libTemp/css/agency.css" rel="stylesheet">
+</head>
+<body id="page-top">
+    <section id="product">
+        <div style="display:flex;" class="m-auto">
+            <div>
+                <div id="content">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                        <div class="container-fluid border-0">
+                            <button type="button" id="sidebarCollapse" class=" btn btn-secondary">
+                                <span class="icon-menu"></span>
+                            </button>
+                        </div>
+                    </nav>
+                </div>
+                <div class="wrapper">
+                    <nav id="sidebar">
+                        <div class="sidebar-header">
+                            <h3 class="text-danger">Ֆիլտր</h3>
+                            <a class="nav-link-primary" asp-action="ProductList">Մաքրել</a>
+                        </div>
+
+                        <form asp-action="ProductList" method="get" class="form-group p-md-3">
+                            <div class=" form-group nav-item">
+                                <label asp-for="sortOrder">Դասավորել</label>
+                                @{ var sort = new Dictionary<string, string>
+                                                        (){
+                                    {"price_desc", "Գնի նվազման"},
+                                    {"price_grow", "Գնի աճման"},
+                                    {"by_popular", "Դիտումների"},
+                                    {"by_date", "Ստեղծման"}
+                                  };
+                                }
+                                <select asp-for="sortOrder" class="form-control">
+                                    <option selected></option>
+                                    @foreach (var kvp in sort)
+                                    {
+                                        <option value="@kvp.Key">@kvp.Value</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class=" form-group nav-item">
+                                <label asp-for="KeyWord">Սեռ</label>
+                                <select asp-for="KeyWord" class="form-control">
+                                    <option selected></option>
+                                    @foreach (ForWhom forw in forWhoms)
+                                    {
+                                        <option>@forw.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class=" form-group nav-item" style="display:flex;">
+                                <div class="">
+                                    <label asp-for="maxPrice">Առավելագույն</label>
+                                    <input asp-for="maxPrice" class="form-control" type="number" min="100" value="@ViewBag.maxPrice" step="100" />
+                                </div>
+                            </div>
+                            <div class=" form-group nav-item ">
+                                <label asp-for="categories">Կատեգորիա</label>
+                                @for (int i = 0; i < categories.Count; i++)
+                                {
+                                    if (Checkbox.Count==9)
+                                    {
+                                        if (Checkbox[i] == "true")
+                                        {
+                                            <div>
+                                                <input type="checkbox" asp-for="@Model.categories[i]" checked />
+                                                <label>@categories[i].CategoryName</label>
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                            <div>
+                                                <input type="checkbox" asp-for="@Model.categories[i]" />
+                                                <label>@categories[i].CategoryName</label>
+                                            </div>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <div>
+                                            <input type="checkbox" asp-for="@Model.categories[i]" />
+                                            <label>@categories[i].CategoryName</label>
+                                        </div>
+                                    }
+
+                                }
+                            </div>
+                            <div class="form-group nav-item">
+                                @{string[] goldArray = new string[] { "333", "375", "417", "500", "585", "583", "750", "792", "833", "875" }; }
+                                <label asp-for="GoldKarat">Ոսկու կարգը</label>
+                                <select asp-for="GoldKarat" class="form-control">
+                                    <option selected></option>
+                                    @for (int i = 0; i < goldArray.Length; i++)
+                                    {
+                                        <option>@goldArray[i]</option>
+                                    }
+                                </select>
+                            </div>
+                            <button type="submit" class=" btn btn-primary nav-item">Որոնել</button>
+                        </form>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="d-flex justify-content-end">
+                    @Html.PagedListPager((IPagedList)products, page => Url.Action("ProductList", new
+               {
+                   page,
+                   sortOrder = ViewBag.sortOrder,
+                   KeyWord = ViewBag.KeyWord,
+                   maxPrice = ViewBag.maxPrice,
+                   GoldKarat = ViewBag.GoldKarat,
+                   categories = Checkbox,
+
+               }), new X.PagedList.Mvc.Common.PagedListRenderOptions
+               {
+                   DisplayItemSliceAndTotal = false,
+                   ContainerDivClasses = new[] { "navigation" },
+                   LiElementClasses = new[] { "page-item" },
+                   PageClasses = new[] { "page-link" },
+               })
+                </div>
+                <div class="row">
+                    @foreach (Product product in products)
+                    {
+                        <div class="col-md-4 col-sm-12 portfolio-item pl-4 pr-4 pb-2">
+                            <a asp-action="LearnMore" asp-route-id="@product.ProductID" target="_blank">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                    </div>
+                                </div>
+                                <img class="img-fluid zoom-box easyzoom easyzoom__with-thumbnails is-ready" src="@product.Image" style="width:500px; height:300px;" alt="">
+                                <div class="portfolio-caption">
+                                    <h4>@product.Name</h4>
+                                    <p class="text-muted">@product.Price դր․</p>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                </div>
+                <div class="d-flex justify-content-end">
+                    @Html.PagedListPager((IPagedList)products, page => Url.Action("ProductList", new
+               {
+                   page,
+                   sortOrder = ViewBag.sortOrder,
+                   KeyWord = ViewBag.KeyWord,
+                   maxPrice = ViewBag.maxPrice,
+                   GoldKarat = ViewBag.GoldKarat,
+                   categories = Checkbox,
+
+               }), new X.PagedList.Mvc.Common.PagedListRenderOptions
+               {
+                   DisplayItemSliceAndTotal = false,
+                   ContainerDivClasses = new[] { "navigation" },
+                   LiElementClasses = new[] { "page-item" },
+                   PageClasses = new[] { "page-link" },
+               })
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @section Scripts{
+        <script>
+            styl
+            $(document).ready(function () {
+                $('ul.pagination > li.disabled > a').addClass('page-link');
+            });
+        </script>
+    }
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+    <script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript-->
+    <script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="~/libTemp/js/agency.min.js"></script>
+    <script src="~/js/SideBar.js"></script>
+</body>
+</html>

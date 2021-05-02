@@ -1,0 +1,31 @@
+﻿@model Category
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h2>Ջնջում</h2>
+    <h3>Դուք համոզվա՞ծ եք, որ ցանկանում եք ջնջել այս դաշտը։</h3>
+    <div class=" bg-primary panel-body"><h4> Կատեգորիա</h4></div>
+   
+    <form asp-action="ProductCategoryListDelete" method="post">
+        <div class=" form-group">
+            <label asp-for="CategoryId">ID</label>
+            <input asp-for="CategoryId" class=" form-control" />
+        </div>
+
+        <div class=" form-group">
+            <label asp-for="CategoryName">Անվանում</label>
+            <input asp-for="CategoryName" class="form-control"  />
+        </div>
+       
+       
+        <div>
+            <button type="submit" class=" btn btn-danger">Ջնջել</button>
+            <a asp-action="ProductCategoryList" class="btn btn-outline-dark">Չեղարկել</a>
+        </div>
+    </form>
+</body>
+</html>

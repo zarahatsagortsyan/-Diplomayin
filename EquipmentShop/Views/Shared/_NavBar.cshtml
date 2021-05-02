@@ -1,0 +1,79 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@{
+    IEnumerable<AdminUsers> au = ViewData["au"] as IEnumerable<AdminUsers>;
+    IEnumerable<BasketProducts> baskets = ViewData["Basket"] as IEnumerable<BasketProducts>;
+}
+
+<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+        <a class="navbar-brand js-scroll-trigger" asp-controller="User" asp-action="Index">Jewelry</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive" style="color:#d4d4d4">
+            <ul class="navbar-nav text-uppercase ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger " asp-controller="User" asp-action="Index">Գլխավոր</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger " asp-controller="User" asp-action="ProductList">Տեսականի</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" asp-controller="User" asp-action="AuthorPage">Հեղինակ</a>
+                </li>
+                @if (!(User.Identity.IsAuthenticated))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" asp-controller="Account" asp-action="SignInUser">@Localizer["Login"]</a>
+                    </li>
+                }
+            </ul>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <ul class="nav navbar-nav ml-auto dropdown nav-item js-scroll-trigger">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link nav-link" data-toggle="dropdown" href="/#" role="button" aria-haspopup="true" aria-expanded="false">
+                            <img class="img-avatar" src="~/image/pic-1.png">
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a class="dropdown-item" href="/#">
+                                <i class="fa fa-user"></i> @User.Identity.Name
+                            </a>
+                            @foreach (AdminUsers admin in au)
+                            {
+                                if (admin.Email == @User.Identity.Name)
+                                {
+                                    <a asp-action="Index" asp-controller="Home" asp-area="Admin" class="dropdown-item">
+                                        <i class="fa fa-user"></i>Ադմինիստրատոր
+                                    </a>
+                                }
+                            }
+                            <a class="dropdown-item" asp-action="Profile" asp-controller="User">
+                                <i class="fa fa-user"></i> Իմ էջը
+                            </a>
+                            <div class="dropdown-divider"></div>
+                            <form class="dropdown-item" asp-area="" asp-action="Logout" asp-controller="Account" method="post">
+                                <button class="btn btn-light" type="submit"> Ելք</button>
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+                <div class="d-flex">
+                    <div id="outer-circle">
+                        <a asp-action="ProductsBasket" asp-controller="User" class="btn">
+                            <i class="icon-bag"> </i>
+                        </a>
+                        <div id="inner-circle">
+                            @{var foo = baskets.Where(v => v.Email == User.Identity.Name);
+                                var fooCount = foo.Count(); }
+
+                            <span>@fooCount</span>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</nav>
+<script src="~/libTemp/js/agency.js"></script>

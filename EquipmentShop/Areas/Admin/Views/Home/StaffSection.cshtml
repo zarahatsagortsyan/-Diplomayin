@@ -1,0 +1,66 @@
+﻿@model IEnumerable<EquipmentShop.Models.StaffSection>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Store</title>
+
+</head>
+<body>
+    <h3>Աշխատակիցներ</h3>
+    <div class="container">
+        <table class="table table-condensed table-bordered table-sm table-responsive-sm " id="staffTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Անուն</th>
+                    <th>Պաշտոն</th>
+                    <th>Նկար</th>
+                    <th>Գործողություններ</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr><td colspan="3" class=" text-center">Տվյալներ չկան</td></tr>
+                }
+                else
+                {
+                    foreach (var staff in Model)
+                    {
+                        <tr class="table-responsive-sm">
+                            <td>@staff.ID</td>
+                            <td>@staff.Name</td>
+                            <td>@staff.Position</td>
+
+                            <td><img style="width:130px; height:150px;" src="@staff.ImgUrl" alt="no image" /></td>
+
+                            <td style="display:flex">
+                                <form method="post" asp-action="StaffSectionDelete" asp-route-id="@staff.ID">
+                                    <button type="submit" class="btn btn-danger"> Ջնջել</button>
+                                </form>
+                                <a style="margin-left: 15px; background-color: darkslategray; color: white; border: none;" asp-action="StaffSectionEdit" asp-route-id="@staff.ID" class="btn">Խմբագրել</a>
+
+
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+    @section Scripts
+{
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/staffTable.js"></script>
+    }
+    <div style="display:flex">
+        <a class="btn btn-primary" asp-area="Admin" asp-action="StaffSectionAdd" asp-controller="Home">Ավելացնել Աշխատակից</a>
+    </div>
+
+</body>
+</html>
+

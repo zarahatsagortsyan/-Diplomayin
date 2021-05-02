@@ -1,0 +1,97 @@
+﻿@model Order
+@{
+    //IEnumerable<Category> categories = ViewData["Categories"] as IEnumerable<Category>;
+    //IEnumerable<Product> products = ViewData["Products"] as IEnumerable<Product>;
+
+    //IEnumerable<Material> materials = ViewData["Materials"] as IEnumerable<Material>;
+    //IEnumerable<ForWhom> forWhoms = ViewData["ForWhom"] as IEnumerable<ForWhom>;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <title> </title>
+</head>
+<body>
+    <div class="container" style="width:1000px;margin:auto;margin:auto;padding:35px;background-color:rgb(219, 234, 218) ">
+        <div class=" bg-orange panel-body"><h4>Խմբագրում</h4></div>
+        <div asp-validation-summary="All" class="text-danger">
+            <form asp-action="OrderEdit" method="post">
+                <div class="form-group bg-danger ">
+                    <label asp-for="Condition">Վիճակ</label>
+                    <select asp-for="Condition" class="form-control">
+                        <option value="@Model.Condition" selected>@Model.Condition</option>
+                        <option value="Նոր">Նոր</option>
+                        <option value="Ճաապարհին">Ճանապարհին</option>
+                        <option value="Կատարված">Կատարված</option>
+                    </select>
+                </div>
+                <div class=" form-group">
+                    <label asp-for="ProductImage">Նկարի URL</label>
+                    <input type="text" asp-for="ProductImage" class=" form-control" readonly="readonly" />
+                </div>
+
+                <div class="form-group">
+                    <h3>Ընթացիկ նկար</h3>
+                    <img style="width:200px;height:100px;" src="@Model.ProductImage" alt="No Image" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Id">Id</label>
+                    <input asp-for="Id" class=" form-control" readonly="readonly" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="ProductId">Id</label>
+                    <input asp-for="ProductId" class=" form-control" readonly="readonly" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="ProductName">Id</label>
+                    <input asp-for="ProductName" class=" form-control" readonly="readonly" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Price">Id</label>
+                    <input asp-for="Price" class=" form-control" readonly="readonly" />
+                </div>
+
+                <div class=" form-group">
+                    <label asp-for="PCount">Քանակ</label>
+                    <input asp-for="PCount" class="form-control" readonly="readonly" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Email">Գին</label>
+                    <input asp-for="Email" class="form-control" readonly="readonly" />
+                </div>
+
+                <div class=" form-group  d-lg-flex ">
+
+                    <div class=" form-group w-50 mr-5">
+                        <label asp-for="Name">Անուն</label>
+                        <input asp-for="Name" class=" form-control" readonly="readonly" />
+                    </div>
+                    <div class=" form-group w-75 ">
+                        <label asp-for="LastName">Ազգանուն</label>
+                        <input asp-for="LastName" class=" form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <div class=" form-group  d-lg-flex ">
+
+                    <div class=" form-group w-75 mr-5">
+                        <label asp-for="Address">Հասցե</label>
+                        <input asp-for="Address" class=" form-control" readonly="readonly" />
+                    </div>   <div class=" form-group w-50">
+                        <label asp-for="Phone">Հեռախոսահամար</label>
+                        <input asp-for="Phone" class=" form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <div class=" form-group">
+                    <label asp-for="DateCreated">Ամսաթիվ</label>
+                    <input type="text" asp-for="DateCreated" class=" form-control"  value="@Html.Raw(DateTime.Now)" readonly="readonly" />
+                </div>
+
+                <button type="submit" class=" btn btn-primary">Պահպանել</button>
+                <a asp-action="Orders" class="btn btn-default">Չեղարկել</a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

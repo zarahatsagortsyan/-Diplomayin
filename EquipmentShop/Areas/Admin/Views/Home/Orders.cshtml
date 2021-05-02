@@ -1,0 +1,103 @@
+﻿@model IEnumerable<EquipmentShop.Models.Order>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <style>
+        table td {
+            font-size: small;
+            width: 10px;
+        }
+        table th {
+            font-size: small;
+        }
+    </style>
+</head>
+<body>
+    <h3>Պատվերներ</h3>
+    <table cellpadding="2" cellspacing="0" class="table table-condensed table-bordered table-striped table-sm table-responsive-sm  " id="myTable">
+        <thead class="thead-dark">
+            <tr>
+                <th>Id</th>
+                <th>Պ. Id</th>
+                <th>Պ. անուն</th>
+                <th>Նկար</th>
+                <th>Գին</th>
+                <th>Քանակ</th>
+                <th>էլ-հասցե</th>
+                <th>Անուն</th>
+                <th>Ազգանուն</th>
+                <th>Հասցե</th>
+                <th>Հեռ.</th>
+                <th>Ամս.</th>
+                <th>Վիճակ</th>
+                <th>Գործ.</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() == 0)
+            {
+                <tr><td colspan="3" class=" text-center">No Product</td></tr>
+            }
+            else
+            {
+                foreach (var order in Model)
+                {
+                    if (order.Condition != "Կատարված")
+                    {
+                        <tr>
+                            <td class="w-auto">@order.Id</td>
+                            <td class="w-auto">@order.ProductId</td>
+                            <td class="w-auto">@order.ProductName</td>
+                            <td class="w-auto"><img style="width:120px;height:100px;" alt="no image" src="@order.ProductImage" /></td>
+                            <td class="w-auto">@order.Price</td>
+                            <td class="w-auto">@order.PCount</td>
+                            <td class="w-auto">@order.Email</td>
+                            <td class="w-auto">@order.Name</td>
+                            <td class="w-auto">@order.LastName</td>
+                            <td class="w-auto">@order.Address</td>
+                            <td class="w-auto">@order.Phone</td>
+                            <td class="w-auto">@order.DateCreated</td>
+                            <td class="w-auto" style="width:10px;">@order.Condition</td>
+                            <td class="w-auto">
+                                <a style="border:none;" asp-action="OrderDelete" asp-route-id="@order.Id" class="btn btn-danger">Ջնջել</a>
+                                <a style="background-color:darkslategray;color:white;border:none;" asp-action="OrderEdit" asp-route-id="@order.Id" class="btn btn-primary">Խմբագրել</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+        <tfoot>
+            <tr></tr>
+            <tr>
+                <th>Id</th>
+                <th>Պ. Id</th>
+                <th>Պ. անուն</th>
+                <th>Նկար</th>
+                <th>Գին</th>
+                <th>Քանակ</th>
+                <th>էլ-հասցե</th>
+                <th>Անուն</th>
+                <th>Ազգանուն</th>
+                <th>Հասցե</th>
+                <th>Հեռ.</th>
+                <th>Ամս.</th>
+                <th>Վիճակ</th>
+                <th>Գործ.</th>
+            </tr>
+        </tfoot>
+    </table>
+    @section Scripts
+{
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/myTable.js"></script>
+    }
+</body>
+</html>
+
+
+

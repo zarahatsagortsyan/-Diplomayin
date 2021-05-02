@@ -1,0 +1,59 @@
+﻿@model IEnumerable<BasketProducts>
+<section>
+    <div class="container">
+        <h3>Ձեր զամբյուղը</h3>
+        <div>
+            <table class="table table-bordered table-sm table-responsive-sm" style=" table-layout: fixed;" id="myTable">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Նկար</th>
+                        <th scope="col">Անվանում</th>
+                        <th scope="col">Կատեգորիա</th>
+                        <th scope="col">Սեռ</th>
+                        <th scope="col">Գին</th>
+                        <th scope="col">Գործ․</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (BasketProducts wish in Model)
+                    {
+                        if (wish.Email == @User.Identity.Name)
+                        {
+                            <tr>
+                                <td scope="row">@wish.ProductId</td>
+                                <td><img img class=" d-block mx-auto" style="width:50%;height:auto;" src="@wish.ProductImage" alt="Alternate Text" /></td>
+                                <td scope="row">@wish.ProductName</td>
+                                <td>@wish.Category</td>
+                                <td>@wish.ForWhom</td>
+                                <td>@wish.Price</td>
+                                <td class="d-flex">
+                                    <form method="post" asp-action="ProductsBasketDelete" asp-route-id="@wish.Id" class="pr-1">
+                                        <button type="submit" class="btn btn-danger ">
+                                            <i class="icon-close"></i>
+                                        </button>
+                                    </form>
+                                    <a class="btn btn-outline-info" asp-action="OrderNow" asp-route-id="@wish.ProductId">
+                                        Պատվիրել
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+                <tfoot>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</section>
+
+<!-- Bootstrap core JavaScript -->
+<script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+<script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+<!-- Contact form JavaScript -->
+<script src="~/libTemp/js/jqBootstrapValidation.js"></script>
+<!-- Custom scripts for this template -->
+<script src="~/libTemp/js/agency.js"></script>

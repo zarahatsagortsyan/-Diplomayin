@@ -1,0 +1,105 @@
+﻿@model IEnumerable<EquipmentShop.Models.Product>
+@{
+    IEnumerable<Material> materials = ViewData["Materials"] as IEnumerable<Material>;
+}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h3>Ապրանքներ</h3>
+    <div class="container">
+        <table class="table table-condensed table-bordered table-striped table-sm table-responsive-sm  " id="myTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Անվանում</th>
+                    <th>Նկար</th>
+                    <th>Գին</th>
+                    <th>Կատեգորիա</th>
+                    <th>Ում համար</th>
+                    <th>Նյութ</th>
+                    <th>Առկա</th>
+                    <th>Ամս.</th>
+                    <th>Գործողություն</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr><td colspan="3" class=" text-center">No Product</td></tr>
+                }
+                else
+                {
+                    foreach (var product in Model)
+                    {
+                        <tr>
+                            <td>@product.ProductID</td>
+                            <td>@product.Name</td>
+                            <td><img style="width:150px;height:100px;" alt="no image" src="@product.Image" /></td>
+                            <td>@product.Price</td>
+                            <td>@product.Category</td>
+                            <td>@product.ForWhom</td>
+
+                            <td>
+                                @foreach (Material item in materials)
+                                {
+                                    if (item.ProductID == product.ProductID)
+                                    {
+                                        <pre> @item.Name</pre>
+                                    }
+                                }
+                            </td>
+                            <td>
+                                @product.Availability
+                            </td>
+                            <td class="w-auto">@product.DateCreated</td>
+
+                            <td>
+                                <a style="border:none;" asp-action="Delete" asp-route-id="@product.ProductID" class="btn btn-danger">
+                                    <i class="icon-close"></i>
+                                    Ջնջել
+                                </a>
+                                <a style="background-color:darkslategray;color:white;border:none;" asp-action="Edit" asp-route-id="@product.ProductID" class="btn btn-primary">
+                                    <i class="icon-pencil"></i>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Id</th>
+                    <th>Անվանում</th>
+                    <th>Նկար</th>
+                    <th>Գին</th>
+                    <th>Կատեգորիա</th>
+                    <th>Ում համար</th>
+                    <th>Նյութ</th>
+                    <th>Առկա</th>
+                    <th>Ամս.</th>
+                    <th>Գործողություն</th>
+                </tr>
+            </tfoot>
+        </table>
+
+    </div>
+    <div style="display:flex">
+        <a class="btn btn-primary" asp-area="Admin" asp-action="Create" asp-controller="Home">Ավելացնել Ապրանք</a>
+    </div>
+    @section Scripts
+{
+
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/myTable.js"></script>
+    }
+</body>
+</html>
+
+
+

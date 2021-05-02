@@ -1,0 +1,73 @@
+﻿@model EquipmentShop.ViewModels.LoginRegisterModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="~/css/LoginRegister.css">
+</head>
+<body>
+    <!-- partial:index.partial.html -->
+    <section class="forms-section">
+        <h1 class="section-title">Ադմին</h1>
+
+        <div class="forms">
+            <div class="form-wrapper is-active">
+                <button type="button" class="switcher switcher-login">
+                    Մուտք
+                    <span class="underline"></span>
+                </button>
+                <form class="form form-login" asp-action="Login" asp-controller="Account" asp-anti-forgery="true">
+                    <fieldset>
+                        <legend>Please, enter your email and password for login.</legend>
+                        <div asp-validation-summary="All" class="text-danger"></div>
+
+                        <div class="input-block">
+                            <label asp-for="Login.Email" for="login-email">Էլ-հասցե</label>
+                            <input asp-for="Login.Email" id="login-email" type="email" required>
+                        </div>
+                        <div class="input-block">
+                            <label asp-for="Login.Password" for="login-password">Ծածկագիր</label>
+                            <input asp-for="Login.Password" id="login-password" type="password" required>
+                        </div>
+                    </fieldset>
+                    <button type="submit" class="btn-login">Մուտք</button>
+                </form>
+            </div>
+            <div class="form-wrapper">
+                <button type="button" class="switcher switcher-signup">
+                    Գրանցում
+                    <span class="underline"></span>
+                </button>
+                <form class="form form-signup" asp-action="Register" asp-controller="Account" method="post" asp-anti-forgery="true">
+                    <fieldset>
+                        <legend>Please, enter your email, password and password confirmation to sign up.</legend>                    
+                        <div class="input-block">
+                            <label asp-for="Register.Email" for="signup-email">Էլ-հասցե</label>
+                            <input asp-for="Register.Email" id="signup-email" type="email" required>
+                        </div>
+                        <div class="input-block">
+                            <label asp-for="Register.AdminVerification" for="signup-email">Ադմին կոդ</label>
+                            <input asp-for="Register.AdminVerification" id="signup-email" type="password" required>
+                        </div>
+                        <div class="input-block">
+                            <label asp-for="Register.Password" for="signup-password">Ծածկագիր</label>
+                            <input asp-for="Register.Password" id="signup-password" type="password" required>
+                        </div>
+                        <div class="input-block">
+                            <label asp-for="Register.ConfirmPassword" for="signup-password-confirm">Հաստատեք ծածկագիրը</label>
+                            <input asp-for="Register.ConfirmPassword" id="signup-password-confirm" type="password" required>
+                        </div>
+                    </fieldset>
+                    <button type="submit" class="btn-signup">Գրանցվել</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    <!-- partial -->
+    <script src="~/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+﻿@model Product
+@{
+    IEnumerable<Material> materials = ViewData["Materials"] as IEnumerable<Material>;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class=" bg-red panel-body"> <h2>Ջնջում</h2></div>
+    <h3>Դուք համոզվա՞ծ եք, որ ցանկանում եք ջնջել ապրանքը։</h3>
+    <h4>Ապրանք</h4>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+    @*<div class="container">*@
+
+        <form asp-action="Delete" method="post">
+            <div class=" form-group col-sm-10">
+                <label asp-for="ProductID"></label>
+                <input asp-for="ProductID" class="form-control input-sm" readonly="readonly" />
+            </div>
+
+            <div class=" form-group col-sm-10">
+                <label class="alert-heading "  asp-for="Name">Անվանում</label>
+                <input asp-for="Name" class="form-control input-sm" readonly="readonly" />
+            </div>
+            <div class=" form-group col-sm-10">
+                <label asp-for="Price">Գին</label>
+                <input asp-for="Price" class=" form-control input-sm" readonly="readonly" />
+            </div>
+            <div class=" form-group col-sm-10">
+                <label asp-for="Category">Կատեգորիա</label>
+                <input asp-for="Category" class=" form-control input-sm" readonly="readonly" />
+            </div>
+            <div class="form-group col-sm-10">
+                <label>Օգտագործված նյութերը</label>
+                @foreach (Material item in materials)
+                {
+                    if (item.ProductID == Model.ProductID)
+                    {
+                        <pre> @item.Name</pre>
+                    }
+                }
+            </div>
+            <div class=" form-group col-sm-10">
+                <label asp-for="ForWhom">Ում համար</label>
+                <input asp-for="ForWhom" class=" form-control input-sm" readonly="readonly" />
+            </div>
+            <div class=" form-group col-sm-10">
+                <label asp-for="Description">Նկարագրություն</label>
+                <textarea  asp-for="Description" class=" form-control sm" ></textarea>
+            </div>
+
+            <div class="col-sm-10">
+                <label asp-for="Image">Նկարի URL</label>
+                <input type="text" id="imgInp" class="  form-control input-sm" readonly="readonly" asp-for="Image">
+            </div>
+            <div  class="alert col-sm-10">
+                <button type="submit" class=" btn btn-danger">Ջնջել</button>
+                <a asp-action="Index" class="btn btn-outline-dark">Չեղարկել</a>
+            </div>
+        </form>
+    @*</div>*@
+</body>
+</html>
+@*<script src="~/lib/tinymce/tinymce/js/tinymce/tinymce.min.js"></script>
+
+ Script to wire up your TinyMCE editor 
+<script type="text/javascript">
+    // Initialize your tinyMCE Editor with your preferred options
+    tfm_path = '/Areas/Admin/fileman';
+    tinymce.init({
+
+        selector: "textarea", theme: "modern", height: 200, width: 500,
+        plugins: [
+            //    "advlist autolink link image lists charmap print preview hr anchor pagebreak",
+            //    "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
+            "table contextmenu directionality emoticons paste textcolor"
+        ],
+        fontsize_formats: "8pt 10pt 12pt 14pt 18pt 24pt 36pt",
+        toolbar1: "undo redo | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | styleselect | fontsizeselect",
+        toolbar2: "| link unlink anchor | image media | forecolor backcolor | print preview code ",
+        image_advtab: false,
+        menubar: false,
+    });
+</script>*@

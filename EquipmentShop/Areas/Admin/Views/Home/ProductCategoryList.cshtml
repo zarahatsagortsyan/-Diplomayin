@@ -1,0 +1,55 @@
+﻿@model IEnumerable<EquipmentShop.Models.Category>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h3>Կատեգորիաներ</h3>
+    <div class="container">
+        <table class="table table-condensed table-bordered table-sm table-responsive-sm" id="myTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Անվանում</th>
+                    <th>Գործողություններ</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr><td colspan="3" class=" text-center">No Data</td></tr>
+                }
+                else
+                {
+                    foreach (var category in Model)
+                    {
+                        <tr>
+                            <td>@category.CategoryId</td>
+                            <td>@category.CategoryName</td>
+                            <td style="display:flex;">
+                                <a asp-action="ProductCategoryListDelete" asp-route-id="@category.CategoryId" class="btn btn-danger">Ջնջել</a>
+                                <a style="margin-left: 15px; background-color: darkslategray; color: white; border: none;" asp-action="ProductCategoryListEdit" asp-route-id="@category.CategoryId" class="btn">Խմբագրել</a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        @section Scripts
+{
+            <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+            <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+            <script src="~/js/myTable.js"></script>
+        }
+    </div>
+
+    <div style="display:flex">
+        <a class="btn btn-primary" asp-area="Admin" asp-action="ProductCategoryListAdd" asp-controller="Home">Ավելացնել</a>
+    </div>
+
+</body>
+</html>
+

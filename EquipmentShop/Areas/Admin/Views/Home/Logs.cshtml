@@ -1,0 +1,80 @@
+﻿@model IEnumerable<string>
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Store</title>
+    <style>
+        table td {
+            font-size: small;
+            width: 10px;
+            /*overflow: hidden;*/
+            /*display: inline-block;*/
+            /*white-space: nowrap;*/
+        }
+
+        table th {
+            font-size: small;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Today's logs</h3>
+
+    <table class="table table-condensed table-bordered table-sm table-responsive-sm" id="staffTable">
+        <thead class="thead-dark">
+            <tr>
+                <th>longdate</th>
+                <th>EventId_Id</th>
+                <th>level</th>
+                <th>logger</th>
+                <th>message</th>
+                <th>aspnet-request-url</th>
+                <th>action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Count() == 0)
+            {
+                <tr><td colspan="3" class=" text-center">Տվյալներ չկան</td></tr>
+            }
+            else
+            {
+                foreach (var log in Model)
+                {
+                    string[] splited = log.Split("z-)(@#-z");
+
+                    <tr>
+                        @for (int i = 0; i < splited.Length; i++)
+                        {
+                            <td>@splited[i]</td>
+                        }
+                    </tr>
+
+                }
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>longdate</th>
+                <th>EventId_Id</th>
+                <th>level</th>
+                <th>logger</th>
+                <th>message</th>
+                <th>aspnet-request-url</th>
+                <th>action</th>
+            </tr>
+
+        </tfoot>
+    </table>
+
+    @section Scripts
+{
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/staffTable.js"></script>
+    }
+</body>
+</html>

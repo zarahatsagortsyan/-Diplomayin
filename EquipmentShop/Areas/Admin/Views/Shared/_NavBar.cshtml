@@ -1,0 +1,29 @@
+﻿<header class="app-header navbar">
+    <button class="navbar-toggler sidebar-toggler d-lg-none mr-auto" type="button" data-toggle="sidebar-show">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/#">
+        <img class="navbar-brand-full" src="https://img.icons8.com/clouds/100/000000/shopping-bag.png" width="70" height="80" alt="CoreUI Logo">
+        <img class="navbar-brand-minimized" src="https://img.icons8.com/clouds/100/000000/shopping-bag.png"  width="30" height="30" alt="CoreUI Logo">
+    </a>
+    <button class="navbar-toggler sidebar-toggler d-md-down-none" type="button" data-toggle="sidebar-lg-show">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <ul class="nav navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+            <a class="nav-link nav-link" data-toggle="dropdown" href="/#" role="button" aria-haspopup="true" aria-expanded="false">
+                <img class="img-avatar" src="~/image/pic-1.png">
+            </a>
+            <div class="dropdown-menu dropdown-menu-right">
+
+                <a class="dropdown-item" asp-action="Profile" asp-controller="User" asp-area="">
+                    <i class="fa fa-user"></i> Իմ էջը
+                </a>
+                <div class="dropdown-divider"></div>
+                <form class="dropdown-item" asp-area="" asp-action="Logout" asp-controller="Account" method="post">
+                    <button class="btn btn-light fa fa-lock" type="submit"> Ելք</button>                 
+                </form>
+            </div>
+        </li>
+    </ul>
+</header>

@@ -1,0 +1,38 @@
+﻿@model Material
+@{
+    IEnumerable<Product> products = ViewData["Products"] as IEnumerable<Product>;
+    IEnumerable<MaterialList> materialLists = ViewData["MaterialList"] as IEnumerable<MaterialList>;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Ավելացնել նյութ ապրանքին</h1>
+    <form asp-action="AddMaterial" class="form-group">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="@Model.Name">Պրոդուկտ։</label>
+            <select asp-for="@Model.Name" class="form-control">
+                @foreach (MaterialList item in materialLists)
+                {
+                    <option value="@item.Name">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.ProductID">Պրոդուկտ։</label>
+            <select asp-for="@Model.ProductID" class="form-control">
+                @foreach (Product item in products)
+                {
+                    <option value="@item.ProductID">@item.ProductID</option>
+                }
+            </select>
+        </div>
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="Create">Ստեղծել </button>
+        <a asp-action="Materials" class="btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>
+

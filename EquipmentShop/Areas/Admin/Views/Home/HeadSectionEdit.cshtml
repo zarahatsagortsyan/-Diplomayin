@@ -1,0 +1,44 @@
+﻿@model HeadSection
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title></title>
+</head>
+<body>
+    <div style="width:1000px;margin:auto;padding:35px;background-color:aliceblue">
+        <div class=" panel-body mce-i-backcolor"><h4>Խմբագրում</h4></div>
+        <div asp-validation-summary="All" class="text-danger">
+            <form asp-action="HeadSectionEdit" method="post">
+                <div class=" form-group">
+                    <label asp-for="HeadSectionId">ID</label>
+                    <input asp-for="HeadSectionId" class=" form-control" readonly="readonly" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="HeadTitle">Գլխավոր Վերնագիր</label>
+                    <input asp-for="HeadTitle" class="form-control" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="HeadOverview">Երկրորդ Վերնագիր</label>
+                    <input asp-for="HeadOverview" class="form-control" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="ButtonUrl">Կոճակի Հղումը</label>
+                    <input asp-for="ButtonUrl" class="form-control" />
+                </div>
+                <div class="form-group">
+                    <h3>Ընթացիկ նկար</h3>
+                    <img style="width:500px;height:300px;" src="@Model.ImgUrl" alt="No Image" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="ImgUrl">Նկարի URL</label>
+                    <input type="text" asp-for="ImgUrl" />
+                </div>
+                <button type="submit" class=" btn btn-primary">Պահպանել</button>
+                <a asp-action="HeadSection" class="btn btn-default">Չեղարկել</a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

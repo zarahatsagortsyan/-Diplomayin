@@ -1,0 +1,772 @@
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.exe
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.deps.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.dev.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csprojAssemblyReference.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfoInputs.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfo.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.input.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.output.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorCoreGenerate.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.Manifest.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.xml
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.genruntimeconfig.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CopyComplete
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\EquipmentShop.styles.css
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Product\Products.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.GenerateResource.cache
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Create.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Delete.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Edit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Products.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSectionEdit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSection.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSection.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionAdd.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionEdit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ContactSection.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSection.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionAdd.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\UserViewModel.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\LearnMore.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionEdit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register00.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ErrorExsistingUser.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\GetFile.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.en.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.hy.resources
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductList.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryList.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListAdd.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListEdit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListDelete.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddMaterial.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Materials.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\new\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdLayout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutFullScreen.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SideBar.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhom.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomAdd.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomEdit.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SideFilter.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialList.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialListAdd.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignInUser.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignUpUser.cshtml.g.cs
+C:\Users\Zara\source\repos\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csprojAssemblyReference.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.en.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.hy.resources
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.GenerateResource.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfoInputs.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfo.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CoreCompileInputs.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.exe
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.deps.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.dev.json
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.Manifest.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.xml
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\EquipmentShop.styles.css
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.input.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.output.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorCoreGenerate.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSection.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionAdd.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddMaterial.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ContactSection.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Create.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Delete.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Edit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhom.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomAdd.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\GetFile.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSection.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSectionEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialList.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialListAdd.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Materials.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryList.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListAdd.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListDelete.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Products.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSection.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionAdd.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\new\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdLayout.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutFullScreen.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SideBar.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ErrorExsistingUser.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignInUser.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignUpUser.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\LearnMore.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderNow.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderSucceed.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductList.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CopyComplete
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.genruntimeconfig.cache
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Orders.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\OrderEdit.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\OrderDelete.cshtml.g.cs
+C:\Users\Zara\OneDrive\Рабочий стол\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Profile.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\nlog.config
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\libman.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.exe
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.deps.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.runtimeconfig.dev.json
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Desktop\EquipmentShop\EquipmentShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Home.Index.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Index.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Product.Products.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared.AdminLayout.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.Shared._Layout.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.en.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Resources.Views.User.Index.hy.resources
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.GenerateResource.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfoInputs.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.AssemblyInfo.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CoreCompileInputs.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorAssemblyInfo.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\en\EquipmentShop.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\hy\EquipmentShop.resources.dll
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.Manifest.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\staticwebassets\EquipmentShop.StaticWebAssets.xml
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\EquipmentShop.styles.css
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.input.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.TagHelpers.output.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorCoreGenerate.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSection.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AboutSectionEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\AddMaterial.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ContactSection.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Create.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Delete.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Edit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhom.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ForWhomEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\GetFile.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSection.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\HeadSectionEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Logs.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialList.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\MaterialListAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Materials.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\OrderDelete.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\OrderEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Orders.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\OrdersDone.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryList.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListDelete.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\ProductCategoryListEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Products.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSection.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\StaffSectionEdit.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Users.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_AdLayout.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LayoutFullScreen.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NavBar.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_SideBar.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\ErrorExsistingUser.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignInUser.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignUpUser.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductLayout.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ChangeUserInfo.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\DataChangedLetter.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\LearnMore.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderNow.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\OrderSucceed.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductList.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductList1.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductsBasket.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\ProductsBasketAdd.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\User\Profile.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cache
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.RazorTargetAssemblyInfo.cs
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.Views.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.csproj.CopyComplete
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.dll
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.pdb
+C:\Desktop\EquipmentShop\EquipmentShop\obj\Debug\netcoreapp3.1\EquipmentShop.genruntimeconfig.cache

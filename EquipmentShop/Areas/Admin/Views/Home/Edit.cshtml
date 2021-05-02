@@ -1,0 +1,123 @@
+﻿@model Product
+@{
+    IEnumerable<Category> categories = ViewData["Categories"] as IEnumerable<Category>;
+    IEnumerable<Product> products = ViewData["Products"] as IEnumerable<Product>;
+
+    IEnumerable<Material> materials = ViewData["Materials"] as IEnumerable<Material>;
+    IEnumerable<ForWhom> forWhoms = ViewData["ForWhom"] as IEnumerable<ForWhom>;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <title> </title>
+</head>
+<body>
+    <div class="container" style="width:1000px;margin:auto;margin:auto;padding:35px;background-color:rgb(219, 234, 218) ">
+        <div class=" bg-orange panel-body"><h4>Խմբագրում</h4></div>
+        <div asp-validation-summary="All" class="text-danger">
+            <form asp-action="Edit" method="post">
+                <div class=" form-group">
+                    <label asp-for="ProductID">Id</label>
+                    <input asp-for="ProductID" class=" form-control" readonly="readonly" />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Image">Նկար</label>
+                    <img class=" d-block mx-auto img-responsive" style="width:50%;height:auto;" src="@Model.Image" alt="No Image" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Name">Անվանում</label>
+                    <input asp-for="Name" class="form-control" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Price">Գին</label>
+                    <input asp-for="Price" class="form-control" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Category">Ընթացիկ Կատեգորիա</label>
+                    <input asp-for="Category" class=" form-control" disabled />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="Availability">Կարգավիճակ</label>
+                    <select asp-for="Availability">
+                        <option>Առկա է</option>
+                        <option>Առկա չէ</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Category">Կատեգորիա</label>
+                    <select asp-for="Category" class="form-control">
+                        <option value="@Model.Category" selected>@Model.Category</option>
+                        @foreach (Category item in categories)
+                        {
+                            <option value="@item.CategoryName">@item.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label >Օգտագործված նյութերը</label>
+                    @foreach (Material item in materials)
+                    {
+                        if (item.ProductID == Model.ProductID)
+                        {
+                            <pre> @item.Name</pre>
+                        }
+                    }
+                </div>
+
+                <div class=" form-group">
+                    <label asp-for="ForWhom">Ում համար (ընթացիկ)</label>
+                    <input asp-for="ForWhom" class=" form-control" disabled />
+                </div>
+                <div class="form-group">
+                    <label asp-for="ForWhom">Ում համար</label>
+                    <select asp-for="ForWhom" class="form-control">
+                        @foreach (ForWhom item in forWhoms)
+                        {
+                            <option value="@item.Name">@item.Name</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Description">Նկարագրություն</label>
+                    <textarea style="width:300px;height:400px;" asp-for="Description" class=" form-control"></textarea>
+                </div>
+
+                <div class=" form-group">
+                    <label asp-for="Image">Նկարի URL</label>
+                    <input type="text" asp-for="Image" />
+                </div>
+                <div class=" form-group">
+                    <label asp-for="DateCreated">Ամսաթիվ</label>
+                    <input type="text" asp-for="DateCreated" class=" form-control" value="@Html.Raw(DateTime.Now)" readonly="readonly" />
+                </div>
+                <button type="submit" class=" btn btn-primary"> Պահպանել</button>
+                <a asp-action="Index" class="btn btn-default">Չեղարկել</a>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
+
+<script src="~/lib/tinymce/tinymce/js/tinymce/tinymce.min.js"></script>
+
+<!-- Script to wire up your TinyMCE editor -->
+<script type="text/javascript">
+    // Initialize your tinyMCE Editor with your preferred options
+    tfm_path = '/Areas/Admin/fileman';
+    tinymce.init({
+
+        selector: "textarea", theme: "modern", height: 200, width: 550,
+        plugins: [
+            //    "advlist autolink link image lists charmap print preview hr anchor pagebreak",
+            //    "searchreplace wordcount visualblocks visualchars insertdatetime media nonbreaking",
+            "table contextmenu directionality emoticons paste textcolor"
+        ],
+        fontsize_formats: "8pt 10pt 12pt 14pt 18pt 24pt 36pt",
+        toolbar1: "undo redo | bold italic underline | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | styleselect | fontsizeselect",
+        toolbar2: "| link unlink anchor | image media | forecolor backcolor | print preview code ",
+        image_advtab: false,
+        menubar: false,
+    });
+</script>

@@ -1,0 +1,36 @@
+2021-03-23 20:57:59.0899z-)(@#-z0z-)(@#-zDEBUGz-)(@#-zEquipmentShop.Programz-)(@#-zinit main z-)(@#-zurl: z-)(@#-zaction: 
+2021-03-23 20:57:59.7164z-)(@#-z0z-)(@#-zINFOz-)(@#-zMicrosoft.Hosting.Lifetimez-)(@#-zApplication started. Press Ctrl+C to shut down. z-)(@#-zurl: z-)(@#-zaction: 
+2021-03-23 20:57:59.7285z-)(@#-z0z-)(@#-zINFOz-)(@#-zMicrosoft.Hosting.Lifetimez-)(@#-zHosting environment: Development z-)(@#-zurl: z-)(@#-zaction: 
+2021-03-23 20:57:59.7424z-)(@#-z0z-)(@#-zINFOz-)(@#-zMicrosoft.Hosting.Lifetimez-)(@#-zContent root path: C:\Desktop\EquipmentShop\EquipmentShop z-)(@#-zurl: z-)(@#-zaction: 
+2021-03-23 20:58:00.0732z-)(@#-z0z-)(@#-zINFOz-)(@#-zEquipmentShop.Controllers.UserControllerz-)(@#-z(User)User/Index has been called z-)(@#-zurl: http://localhost/z-)(@#-zaction: Index
+2021-03-23 20:58:03.1667z-)(@#-z10102z-)(@#-zWARNz-)(@#-zMicrosoft.EntityFrameworkCore.Queryz-)(@#-zThe query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. z-)(@#-zurl: http://localhost/User/ProductListz-)(@#-zaction: ProductList
+2021-03-23 20:58:10.3956z-)(@#-z1z-)(@#-zERRORz-)(@#-zMicrosoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewarez-)(@#-zAn unhandled exception has occurred while executing the request. System.IO.FileNotFoundException: Could not find file 'C:\Desktop\EquipmentShop\temp\nlog-AspNetCore3-own-2021-03-23.log'.
+File name: 'C:\Desktop\EquipmentShop\temp\nlog-AspNetCore3-own-2021-03-23.log'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path)
+   at EquipmentShop.Areas.Admin.Controllers.HomeController.Logs() in C:\Desktop\EquipmentShop\EquipmentShop\Areas\Admin\Controllers\HomeController.cs:line 87
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)z-)(@#-zurl: http://localhost/Admin/Home/Logsz-)(@#-zaction: Logs

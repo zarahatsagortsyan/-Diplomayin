@@ -1,0 +1,25 @@
+﻿@model MaterialList
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+    <h1>Ավելացնել Նյութ</h1>
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <form asp-action="MaterialListAdd" class="form-group">
+
+        <div class="form-group">
+            <label asp-for="Name">Անվանում:</label>
+            <input asp-for="Name" type="text" class=" form-control" required />
+        </div>
+
+
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="Create">Ստեղծել </button>
+        <a asp-action="MaterialList" class=" btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>

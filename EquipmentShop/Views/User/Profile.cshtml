@@ -1,0 +1,98 @@
+﻿@*@model IEnumerable<EquipmentShop.Models.Users>*@
+@{
+    IEnumerable<Users> users = ViewData["Users"] as IEnumerable<Users>;
+    IEnumerable<AdminUsers> admins = ViewData["au"] as IEnumerable<AdminUsers>;
+    IEnumerable<Order> orders = ViewData["Orders"] as IEnumerable<Order>;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title> </title>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <section>
+        <div class="container">
+            <div class="m-auto">
+                <div class="d-flex justify-content-center">
+                    <div class="m-auto">
+                        <img class="rounded-circle" src="~/image/unknown-person-icon-4.jpg" alt="Alternate Text" />
+                    </div>
+                    @foreach (Users user in users)
+                    {
+                        if (user.Email == @User.Identity.Name)
+                        {
+                            <div class="">
+                                <h6>username - @user.UserName</h6>
+                                <h6>email - @user.Email</h6>
+                                <h6>phone - @user.PhoneNumber</h6>
+                                <a asp-action="ChangeUserInfo" class="btn btn-primary" asp-route-id="@user.Id">
+                                    <i class="icon-pencil"></i>
+                                    Փոփոխել
+                                </a>
+                            </div>
+                        }
+                    } 
+                    @foreach (AdminUsers admin in admins)
+                    {
+                        if (admin.Email == @User.Identity.Name)
+                        {
+                            <div class="">
+                                <h3>admin</h3>
+                                <h6>email - @admin.Email</h6>
+                            </div>
+                        }
+                    }
+                </div>
+                <div class="mt-4">
+                    <h3>Ձեր Պատվերները</h3>
+                    <div>
+                        <table class="table table-bordered table-sm table-responsive-sm" style="table-layout: fixed;" id="myTable">
+                            <thead class="bg-dark text-light">
+                                <tr>
+                                    <th>Պատվերի Id</th>
+                                    <th>Պրոդուկտի Id</th>
+                                    <th>Ամսաթիվ</th>
+                                    <th>Նկար</th>
+                                    <th>Անվանում</th>
+                                    <th>Քանակ</th>
+                                    <th>Գին</th>
+                                    <th>Վիճակ</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (Order order in orders)
+                                {
+                                    if (order.Email == @User.Identity.Name)
+                                    {
+                                        <tr>
+                                            <td scope="row">@order.Id</td>
+                                            <td scope="row">@order.ProductId</td>
+                                            <td scope="row">@order.DateCreated</td>
+                                            <td><img img class=" d-block mx-auto" style="width:50%;height:auto;" src="@order.ProductImage" alt="Alternate Text" /></td>
+                                            <td>@order.Name</td>
+                                            <td>@order.PCount</td>
+                                            <td>@order.Price</td>
+                                            <td>@order.Condition</td>
+                                        </tr>
+                                    }
+                                }
+                            </tbody>
+                        </table>
+                        <script src="~/js/myTable.js"></script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+    <script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="~/libTemp/js/agency.js"></script>
+</body>
+</html>
+

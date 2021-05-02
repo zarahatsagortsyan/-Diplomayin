@@ -1,0 +1,32 @@
+﻿@model StaffSection
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Add Staff Member</title>
+</head>
+<body>
+    <h1>Աշխատակցի ավելացում</h1>
+    <form asp-action="StaffSectionAdd" class="form-group">
+
+        <div class="form-group">
+            <label asp-for="Name">Անուն:</label>
+            <input asp-for="Name" type="text" class=" form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Position">Պաշտոն:</label>
+            <input asp-for="Position" type="text" class=" form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="ImgUrl">Նկարի URL:</label>
+            <input asp-for="ImgUrl" class="form-control" />
+        </div>
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="StaffSectionAdd">Ստեղծել </button>
+        <a asp-action="StaffSection" class=" btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>
+
+

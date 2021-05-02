@@ -1,0 +1,93 @@
+﻿@model EquipmentShop.ViewModels.OrderViewModel
+<section>
+    <div class="container">
+        <p><a asp-action="ProductList">Տեսականի</a>/Պատվեր</p>
+        <h1>Պատվերի գրանցում</h1>
+        <table class="table table-bordered table-sm table-responsive-sm" style=" table-layout: fixed;">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Նկար</th>
+                    <th scope="col">Անվանում</th>
+                    <th scope="col">Գին</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td scope="row">@Model.Product.ProductID</td>
+                    <td><img img class=" d-block mx-auto" style="width:50%;height:auto;" src="@Model.Product.Image" alt="Alternate Text" /></td>
+                    <td>@Model.Product.Name</td>
+                    <td>@Model.Product.Price</td>
+                </tr>
+
+            </tbody>
+        </table>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form asp-action="OrderNow" class="form-group" method="post" asp-controller="User">
+            <div class="form-group ">
+                <label asp-for="Order.PCount">Քանակ</label>
+                <input asp-for="Order.PCount" type="number" value="1" min="1" class="w-25 form-control" required />
+            </div>
+            <div class="form-group w-50">
+
+                <label asp-for="Order.Email">Էլ-հասցե</label>
+                <input asp-for="Order.Email" type="email" value="@User.Identity.Name" class=" form-control" required />
+            </div>
+            <div class="form-group d-lg-flex ">
+                <div class="form-group w-50 mr-5">
+                    <label asp-for="Order.Name">Անուն</label>
+                    <input asp-for="Order.Name" type="text" class=" form-control " required />
+                </div>
+                <div class="form-group w-75">
+                    <label asp-for="Order.LastName">Ազգանուն</label>
+                    <input asp-for="Order.LastName" type="text" class=" form-control" required />
+                </div>
+            </div>
+            <div class="form-group d-lg-flex w-100 ">
+
+                <div class="form-group w-75 mr-5">
+                    <label asp-for="Order.Address">Հասցե</label>
+                    <input asp-for="Order.Address" class=" form-control" required  />
+                </div>
+                <div class="form-group w-50">
+                    <label asp-for="Order.Phone">Հեռախոսահամար</label>
+                    <input asp-for="Order.Phone" class=" form-control" required />
+                </div>
+            </div>
+
+            <div class=" form-group">
+               
+                <input asp-for="Product.ProductID" class=" form-control" readonly="readonly" hidden />
+            </div>
+            <div class=" form-group">
+            
+                <input asp-for="Product.Name" class="form-control" hidden />
+            </div>
+            <div class=" form-group">
+          
+                <input asp-for="Product.Price" class="form-control" hidden />
+            </div>
+            <div class=" form-group">      
+                <input type="text" asp-for="Product.Image" hidden />
+            </div>
+            <div class=" d-flex flex-row-reverse">
+                <div class="p-2">
+                    <button type="submit" asp-controller="User" class="btn btn-success mr-3" value="Create">Պատվիրել</button>
+                </div>
+                <div class="p-2">
+                    <a asp-action="LearnMore" asp-route-id="@Model.Product.ProductID" class="btn btn-outline-danger">Չեղարկել</a>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</section>
+<!-- Bootstrap core JavaScript -->
+<script src="~/libTemp/vendor/jquery/jquery.min.js"></script>
+<script src="~/libTemp/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- Plugin JavaScript -->
+<script src="~/libTemp/vendor/jquery-easing/jquery.easing.min.js"></script>
+<!-- Contact form JavaScript -->
+<script src="~/libTemp/js/jqBootstrapValidation.js"></script>
+<!-- Custom scripts for this template -->
+<script src="~/libTemp/js/agency.js"></script>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<EquipmentShop.Models.MaterialList>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Store</title>
+</head>
+<body>
+    <h3>Նյութեր</h3>
+    <div class="container">
+        <table class="table table-condensed table-bordered table-sm table-responsive-sm" id="myTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Id</th>
+                    <th>Անվանում</th>
+                    <th>Գործողություններ</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr><td colspan="3" class=" text-center">No Data</td></tr>
+                }
+                else
+                {
+                    foreach (var materialList in Model)
+                    {
+                        <tr>
+                            <td>@materialList.id</td>
+                            <td>@materialList.Name</td>
+                            <td style="display:flex;">
+                                <form method="post" asp-action="MaterialListDelete" asp-route-id="@materialList.id">
+                                    <button type="submit" class="btn btn-danger">
+                                        <i class="icon-close"></i>
+                                    </button>
+                                </form>
+                                <a style="margin-left: 15px; background-color: darkslategray; color: white; border: none;" asp-action="ProductCategoryListEdit" asp-route-id="@materialList.id" class="btn">
+                                    <i class="icon-pencil"></i>
+                                </a>
+                            </td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+    @section Scripts
+{
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/myTable.js"></script>
+    }
+    <div style="display:flex">
+        <a class="btn btn-primary" asp-area="Admin" asp-action="MaterialListAdd" asp-controller="Home">Ավելացնել</a>
+    </div>
+
+</body>
+</html>
+

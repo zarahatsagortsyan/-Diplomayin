@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Users>
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/datatables/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Store</title>
+
+</head>
+<body>
+    <h3>Users</h3>
+    <div class="container">
+        <table class="table table-condensed table-bordered table-sm table-responsive-sm " id="staffTable">
+            <thead class="thead-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Էլ-հասցե</th>
+                    <th>օգտանուն</th>
+                    <th>հեռ․</th>
+                    <th>գործ․</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count() == 0)
+                {
+                    <tr><td colspan="3" class=" text-center">Տվյալներ չկան</td></tr>
+                }
+                else
+                {
+                    foreach (var user in Model)
+                    {
+                        <tr class="table-responsive-sm">
+                            <td>@user.Id</td>
+                            <td>@user.Email</td>
+                            <td>@user.UserName</td>
+                            <td>@user.PhoneNumber</td>
+                            <td style="display:flex">
+                                <form method="post" asp-action="UserDelete" asp-route-id="@user.Id">
+                                    <button type="submit" class="btn btn-danger"> Ջնջել</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot>
+                <tr>            
+                    <th>ID</th>
+                    <th>Էլ-հասցե</th>
+                    <th>օգտանուն</th>
+                    <th>հեռ․</th>
+                    <th>գործ․</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    @section Scripts
+{
+        <script src="~/lib/datatables/js/jquery.dataTables.min.js"></script>
+        <script src="~/lib/datatables/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/js/staffTable.js"></script>
+    }
+
+</body>
+</html>
+

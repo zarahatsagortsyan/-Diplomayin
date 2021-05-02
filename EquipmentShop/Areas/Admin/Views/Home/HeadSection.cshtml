@@ -1,0 +1,52 @@
+﻿@model IEnumerable<EquipmentShop.Models.HeadSection>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <title>Store</title>
+    <style>
+    </style>
+</head>
+<body>
+    <h3>Գլխային</h3>
+    <br />
+    <div class="container">
+        <div class="table-responsive">
+            <table class="table table-bordered table-sm table-responsive-sm" style=" table-layout: fixed;">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Գլխավոր Վերնագիր</th>
+                        <th>Երկրորդ Վերնագիր</th>
+                        <th>Կոճակի հղումը</th>
+                        <th>Նկար</th>
+                        <th>Գործողություններ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Count() == 0)
+                    {
+                        <tr><td colspan="3" class=" text-center">No Data</td></tr>
+                    }
+                    else
+                    {
+                        foreach (var head in Model)
+                        {
+                            <tr>
+                                <td>@head.HeadTitle</td>
+                                <td>@head.HeadOverview</td>
+                                <td>@head.ButtonUrl</td>
+                                <td><img class=" d-block mx-auto" style="width:100%;height:auto;" src="@head.ImgUrl" alt="no image" /></td>
+                                <td>
+                                    <a style="background-color:darkslategray;color:white;border:none;" class="btn btn-secondary " asp-action="HeadSectionEdit" asp-route-id="@head.HeadSectionId">Խմբագրել</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+

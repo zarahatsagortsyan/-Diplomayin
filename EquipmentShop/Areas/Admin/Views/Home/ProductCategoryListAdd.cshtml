@@ -1,0 +1,25 @@
+﻿@model Category
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+</head>
+<body>
+    <h1>Ավելացնել Կատեգորիա</h1>
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <form asp-action="ProductCategoryListAdd" class="form-group">
+
+        <div class="form-group">
+            <label asp-for="CategoryName">Անվանում:</label>
+            <input asp-for="CategoryName" type="text" class=" form-control" required />
+        </div>
+
+
+        <button type="submit" asp-area="Admin" asp-controller="Home" class="btn btn-primary" value="Create">Ստեղծել </button>
+        <a asp-action="ProductCategoryList" class=" btn btn-default">Չեղարկել</a>
+    </form>
+</body>
+</html>

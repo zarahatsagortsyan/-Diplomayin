@@ -1,0 +1,66 @@
+﻿@model EquipmentShop.ViewModels.UserRegister
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+    <meta charset="UTF-8">
+    <title>Login</title>
+    @*<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>*@
+    <link rel="stylesheet" href="~/css/LoginRegister.css">
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body style="background-color: #424242">
+    <!-- partial:index.partial.html -->
+    <section class="forms-section">
+        <div class="forms m-auto">
+            <div class="form-wrapper is-active ml-5">
+                <button type="button" class="switcher switcher-login" asp-action="SignUpUser" asp-controller="Account">
+                    Գրանցում
+                    <span class="underline"></span>
+                </button>
+                <form class="form form-signup" asp-action="SignUpUser" asp-controller="Account" asp-anti-forgery="true">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="input-block">
+                        <label asp-for="UserName" for="login-email">Օգտանուն</label>
+                        <input asp-for="UserName" id="login-email" type="text" required>
+                    </div>
+                    <div class="d-flex">
+                        <div class="input-block mr-4">
+                            <label asp-for="Email" for="login-email">Էլ-հասցե</label>
+                            <input asp-for="Email" id="login-email" type="email" required>
+                        </div>
+                        <div class="input-block">
+                            <label asp-for="Phone" for="login-email">Հեռախոսահամար</label>
+                            <input asp-for="Phone" id="login-email" type="text" required>
+                        </div>
+                    </div>
+                    <div class="input-block">
+                        <label asp-for="Password" for="login-password">Ծածկագիր</label>
+                        <input asp-for="Password" id="login-password" type="password" required>
+                    </div>
+                    <div class="input-block">
+                        <label asp-for="ConfirmPassword" for="login-password">Հաստատել ծածկագիրը</label>
+                        <input asp-for="ConfirmPassword" id="login-password" type="password" required>
+                    </div>
+                    <button type="submit" class="btn-login">Գրանցվել</button>
+                </form>
+            </div>
+            <div class="form-wrapper is-invalid ml-2">
+
+                <a asp-action="SignInUser" asp-controller="Account" class="switcher switcher-login text-decoration-none hover">
+                    Մուտք
+
+                </a>
+            </div>
+        </div>
+    </section>
+    <!-- partial -->
+    @*<script src="~/js/script.js"></script>*@
+
+</body>
+</html>
